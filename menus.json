@@ -1,0 +1,48 @@
+[
+    {
+        "text": "Toolbar option 1",
+        "options": [
+            {
+                "type": "option",
+                "text": "Option 1.1",
+                "action": "option11_callback"
+            },
+            {
+                "type": "option",
+                "text": "Option 1.2",
+                "action": "option12_callback"
+            },
+            {
+                "type": "option",
+                "text": "Option 1.3",
+                "action": "option13_callback"
+            },
+            {
+                "type": "separator"
+            },
+            {
+                "type": "option",
+                "text": "Option 1.4",
+                "action": "exit_app"
+            }
+        ]
+    },
+    {
+        "text": "Toolbar option 2",
+        "options": [
+            {
+                "type": "option",
+                "text": "Option 2.1",
+                "action": "option21_callback"
+            },
+            {
+                "type": "separator"
+            },
+            {
+                "type": "option",
+                "text": "Option 2.2",
+                "action": "option22_callback"
+            }
+        ]
+    }
+]

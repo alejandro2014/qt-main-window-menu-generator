@@ -1,0 +1,8 @@
+{
+    "main_window_class": "MainWindow",
+    "window": {
+        "title": "Title of the main window",
+        "width": 1024,
+        "height": 768
+    }
+}
